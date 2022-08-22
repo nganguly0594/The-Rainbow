@@ -15,3 +15,5 @@ Red
 These are the colors of the rainbow.
 And the unicorn.
 Pony
+
+YOLO stands for You Often Lick Octopusses
